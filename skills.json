@@ -1,26 +1,26 @@
 [
     {
-        "name": "Vulnerability Assessment",
+        "name": "Vulnerability Assessment"
     },
     {
-        "name": "Penetration Testing",
+        "name": "Penetration Testing"
     },
     {
-        "name": "Bug Hunting",
+        "name": "Bug Hunting"
     },
     {
-        "name": "Effective Threat Modeling",
+        "name": "Effective Threat Modeling"
     },
     {
-        "name": "Web Application Security",
+        "name": "Web Application Security"
     },
     {
-        "name": "Mobile Security",
+        "name": "Mobile Security"
     },
     {
-        "name": "Network Scanning",
+        "name": "Network Scanning"
     },
     {
-        "name": "Reverse Engineering",
+        "name": "Reverse Engineering"
     }  
 ]
