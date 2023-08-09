@@ -1,34 +1,26 @@
 [
     {
         "name": "Vulnerability Assessment",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
         "name": "Penetration Testing",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
     },
     {
         "name": "Bug Hunting",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
         "name": "Effective Threat Modeling",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
     },
     {
         "name": "Web Application Security",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
     },
     {
         "name": "Mobile Security",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
     {
         "name": "Network Scanning",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
     },
     {
         "name": "Reverse Engineering",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
     }  
 ]
