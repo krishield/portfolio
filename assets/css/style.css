@@ -670,6 +670,8 @@ header .navbar ul li a:hover {
 .education .box-container .box .image {
   flex: 1 1 20rem;
   width: 100%;
+  justify-content: center;
+  display: flex;
 }
 
 .education .box-container .box img {
@@ -1481,13 +1483,17 @@ form .button-area {
 .certification .box-container .box .image {
   flex: 1 1 20rem;
   width: 100%;
+  justify-content: center;
+  display: flex;
 }
 
 .certification .box-container .box img {
   object-fit: cover;
   position: relative;
-  max-width: 70%;
+  max-width: 100%;
   height: auto;
+  padding: 10px;
+  
 }
 
 .certification .box-container .box .content {
