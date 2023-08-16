@@ -15,12 +15,51 @@
         "name": "Web Application Security"
     },
     {
-        "name": "Mobile Security"
+        "name": "Mobile App Security"
     },
     {
         "name": "Network Scanning"
     },
     {
         "name": "Reverse Engineering"
-    }  
+    },
+    {
+        "name":"----Tools----"
+    },
+    {
+        "name": "Burp Suite"
+    },
+    {
+        "name": "Nmap"
+    },
+    {
+        "name": "Wireshark"
+    },
+    {
+        "name": "Nessus"
+    },
+    {
+        "name": "SQLMap"
+    },
+    {
+        "name": "Kali-Linux"
+    },
+    {
+        "name":"----Threat Modeling----"
+    },
+    {
+        "name": "Identifying and prioritizing threats"
+    },
+    {
+        "name": "Creating threat models"
+    },
+    {
+        "name": "Assessing attack vectors"
+    },
+    {
+        "name": "Risk analysis and mitigation"
+    },
+    {
+        "name": "Incorporating threat intelligence"
+    }
 ]
