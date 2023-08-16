@@ -95,7 +95,7 @@ function showSkills(skills) {
         skillHTML += `
         <div class="bar">
               <div class="info">
-                <span>${skill.name}</span>
+                <span style="text-align: center;">${skill.name}</span>
               </div>
             </div>`
     });

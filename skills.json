@@ -9,9 +9,6 @@
         "name": "Bug Hunting"
     },
     {
-        "name": "Effective Threat Modeling"
-    },
-    {
         "name": "Web Application Security"
     },
     {
@@ -24,7 +21,22 @@
         "name": "Reverse Engineering"
     },
     {
-        "name":"----Tools----"
+        "name": "Effective Threat Modeling"
+    },
+    {
+        "name": "Identifying and prioritizing threats"
+    },
+    {
+        "name": "Creating threat models"
+    },
+    {
+        "name": "Assessing attack vectors"
+    },
+    {
+        "name": "Risk analysis and mitigation"
+    },
+    {
+        "name": "Incorporating threat intelligence"
     },
     {
         "name": "Burp Suite"
@@ -43,23 +55,5 @@
     },
     {
         "name": "Kali-Linux"
-    },
-    {
-        "name":"----Threat Modeling----"
-    },
-    {
-        "name": "Identifying and prioritizing threats"
-    },
-    {
-        "name": "Creating threat models"
-    },
-    {
-        "name": "Assessing attack vectors"
-    },
-    {
-        "name": "Risk analysis and mitigation"
-    },
-    {
-        "name": "Incorporating threat intelligence"
     }
 ]
