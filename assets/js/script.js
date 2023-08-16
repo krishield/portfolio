@@ -64,7 +64,6 @@ document.addEventListener('visibilitychange',
         }
         else {
             document.title = "Shrikrishna Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
         }
     });
 
