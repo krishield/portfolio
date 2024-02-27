@@ -675,7 +675,7 @@ header .navbar ul li a:hover {
 }
 
 .education .box-container .box img {
-  object-fit:cover;
+  object-fit:contain;
   position: relative;
   max-width: 70%;
   height: auto;
@@ -1488,7 +1488,7 @@ form .button-area {
 }
 
 .certification .box-container .box img {
-  object-fit: cover;
+  object-fit: contain;
   position: relative;
   max-width: 100%;
   height: auto;
