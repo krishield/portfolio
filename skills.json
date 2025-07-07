@@ -10,6 +10,9 @@
     },
     {
         "name": "Web Application Security"
+    }, 
+    {
+        "name": "Cloud Security"
     },
     {
         "name": "Mobile App Security"
@@ -34,23 +37,6 @@
     },
     {
         "name": "Incorporating threat intelligence"
-    },
-    {
-        "name": "Burp Suite"
-    },
-    {
-        "name": "Nmap"
-    },
-    {
-        "name": "Wireshark"
-    },
-    {
-        "name": "Nessus"
-    },
-    {
-        "name": "SQLMap,Ghauri"
-    },
-    {
-        "name": "Kali-Linux"
     }
+   
 ]
