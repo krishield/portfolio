@@ -70,7 +70,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Cyber Security", "Penetration Testing", "Vulnerability Assessment", "Mobile Security", "Web Security"],
+    strings: ["Cloud Security", "Penetration Testing", "Vulnerability Assessment", "Mobile Security", "Web Security", "Cyber Security"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
